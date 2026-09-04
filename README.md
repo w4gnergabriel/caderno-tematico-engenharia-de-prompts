@@ -99,7 +99,7 @@ Curadoria de Fontes
 
 As fontes selecionadas e suas justificativas estão disponíveis em:
 
-[Acessar fontes utilizadas](./fontes/fontes.md)
+[Acessar fontes utilizadas](./fontes.md)
 
 Foram priorizados materiais abertos relacionados a:
 
@@ -118,7 +118,7 @@ Durante o projeto, foram realizados testes com diferentes estratégias de elabor
 
 O processo completo, incluindo prompts iniciais, variações, dificuldades encontradas e aprendizados, está documentado em:
 
-[Acessar experimentos e prompts](./prompts/prompts-testados.md)**
+[Acessar experimentos e prompts](./prompts-testados.md)
 
 Um dos principais objetivos foi compreender como pequenas alterações nas instruções podem modificar significativamente a resposta obtida.
 
@@ -162,7 +162,7 @@ Como resultado final, foi desenvolvido um Miniguia de Estudos contendo:
 * Checklist;
 * Prompts reutilizáveis para futuras revisões.
 
-[Acessar Miniguia de Estudos](./miniguia/miniguia-estudo.md)**
+[Acessar Miniguia de Estudos](./miniguia-estudo.md)**
 
 Principais Aprendizados
 
@@ -191,7 +191,7 @@ A realização deste projeto demonstrou que a Inteligência Artificial pode ser 
 
 A principal conclusão obtida é que a Engenharia de Prompts não consiste simplesmente em escrever comandos mais longos.
 
-Um prompt eficiente depende da combinação entre **objetivo claro, contexto relevante, instruções adequadas e critérios para avaliar o resultado**.
+Um prompt eficiente depende da combinação entre objetivo claro, contexto relevante, instruções adequadas e critérios para avaliar o resultado.
 
 Além disso, a qualidade da interação pode ser melhorada através de um processo contínuo de experimentação e refinamento.
 
